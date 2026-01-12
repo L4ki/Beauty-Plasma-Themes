@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "ServiceTypes": [
+            "Plasma/Theme"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Beauty-Color-Plasma",
+        "Description": "Beauty-Color-Plasma",
+        "Id": "Beauty-Color-Plasma",
+        "Version": "1.0",
+        "License": "GPL-3.0+",
+        "Website": "https://github.com/Beauty-Plasma-Themes"
+    },
+    "X-Plasma-API": "5.0"
+}
