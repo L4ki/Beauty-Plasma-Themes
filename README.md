@@ -2,7 +2,7 @@
 Beauty Themes For Plasma Desktop
 --------------------------------
 
-Download: https://www.pling.com/p/2334845
+Download: 
 ------------------------------------------
 
 
