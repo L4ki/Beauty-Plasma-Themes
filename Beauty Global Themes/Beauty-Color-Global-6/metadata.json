@@ -1,0 +1,34 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Beauty-Color-Global-6",
+        "Description": "Beauty-Color-Global For Plasma 6 by l4k1",
+        "Id": "Beauty-Color-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Beauty-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://plasma-themes.knsrc/api.kde-look.org/2342243",
+        "kns://icons.knsrc/api.kde-look.org/2234790",
+        "kns://icons.knsrc/api.kde-look.org/2321773",
+        "kns://icons.knsrc/api.kde-look.org/2338310",
+        "kns://aurorae.knsrc/api.kde-look.org/2342238",
+        "kns://colorschemes.knsrc/api.kde-look.org/2342241",
+        "kns://colorschemes.knsrc/api.kde-look.org/2342242",
+        "kns://wallpaper.knsrc/api.kde-look.org/2342234",
+        "kns://wallpaper.knsrc/api.kde-look.org/2342233",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2334793"
+    ]
+}
